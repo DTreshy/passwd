@@ -6,7 +6,7 @@ toolchain go1.24.5
 
 require (
 	github.com/stretchr/testify v1.9.0
-	golang.org/x/crypto v0.39.0
+	golang.org/x/crypto v0.41.0
 )
 
 require (
